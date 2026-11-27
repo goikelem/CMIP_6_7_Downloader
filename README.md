@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="CMIP 6/7 Downloader: search ESGF, crop your region, save compressed NetCDF4" width="100%">
+<img src="banner.svg" alt="CMIP 6/7 Downloader: search ESGF, crop your region, save compressed NetCDF4" width="100%">
 
 <br>
 
