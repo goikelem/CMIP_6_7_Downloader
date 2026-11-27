@@ -1,0 +1,53 @@
+[CMIP7] intake-esgf 2026.11.29 | python 3.14.6 | indices: STACESGFIndex('discovery.east.esgf.io'), STACESGFIndex('discovery.west.esgf.io')
+
+[CMIP7] pr | historical (historical) | monthly | years 1980-2021
+[36;32msearch begin[0m project=['CMIP7'], experiment_id=['historical'], variable_id=['pr'], frequency=['mon'], variable_branding_suffix=['tavg-u-hxy-u'], type=['Dataset'], latest=[True], retracted=[False]
+└─STACESGFIndex('discovery.east.esgf.io') results=79 response_time=1.44
+└─STACESGFIndex('discovery.west.esgf.io') results=79 response_time=2.33
+combine_time=0.03
+[36;32msearch end[0m total_time=2.38
+  Matching dataset records: 15
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/UKESM1-3-LL_historical_r3i1p1f2_mon_pr_tavg-u-hxy-u_g110.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/UKESM1-3-LL_historical_r6i1p1f2_mon_pr_tavg-u-hxy-u_g110.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/UKESM1-3-LL_historical_r2i1p1f2_mon_pr_tavg-u-hxy-u_g110.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/UKESM1-3-LL_historical_r5i1p1f2_mon_pr_tavg-u-hxy-u_g110.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r10i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r9i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r8i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r7i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r6i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r5i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r4i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r3i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r2i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/ACCESS-ESM1-6_historical_r1i1p1f1_mon_pr_tavg-u-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/pr/UKESM1-3-LL_historical_r1i1p1f2_mon_pr_tavg-u-hxy-u_g110.nc
+
+[CMIP7] tas | historical (historical) | monthly | years 1980-2021
+[36;32msearch begin[0m project=['CMIP7'], experiment_id=['historical'], variable_id=['tas'], frequency=['mon'], variable_branding_suffix=['tavg-h2m-hxy-u'], type=['Dataset'], latest=[True], retracted=[False]
+└─STACESGFIndex('discovery.east.esgf.io') results=79 response_time=0.64
+└─STACESGFIndex('discovery.west.esgf.io') results=79 response_time=1.43
+combine_time=0.02
+[36;32msearch end[0m total_time=1.46
+  Matching dataset records: 15
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/UKESM1-3-LL_historical_r3i1p1f2_mon_tas_tavg-h2m-hxy-u_g110.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/UKESM1-3-LL_historical_r6i1p1f2_mon_tas_tavg-h2m-hxy-u_g110.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/UKESM1-3-LL_historical_r2i1p1f2_mon_tas_tavg-h2m-hxy-u_g110.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/UKESM1-3-LL_historical_r5i1p1f2_mon_tas_tavg-h2m-hxy-u_g110.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r10i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r9i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r8i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r7i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r6i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r5i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r4i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r3i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r2i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/ACCESS-ESM1-6_historical_r1i1p1f1_mon_tas_tavg-h2m-hxy-u_g115.nc
+  [DRY-RUN] planned -> /home/goitomk/DATA/cmip7/historical/monthly/tas/UKESM1-3-LL_historical_r1i1p1f2_mon_tas_tavg-h2m-hxy-u_g110.nc
+
+Summary: saved=0, skipped=0, empty=0, failed=0, dry_run=30
+
+Recap:
+  pr | historical (historical) | monthly | years 1980-2021: dry-run 15 planned
+  tas | historical (historical) | monthly | years 1980-2021: dry-run 15 planned

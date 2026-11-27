@@ -1,0 +1,17 @@
+[CMIP7] intake-esgf 2026.11.29 | python 3.14.6 | indices: STACESGFIndex('discovery.east.esgf.io'), STACESGFIndex('discovery.west.esgf.io')
+
+[CMIP7] pr | historical (historical) | monthly | years 1980-2021
+[36;32msearch begin[0m project=['CMIP7'], experiment_id=['historical'], variable_id=['pr'], frequency=['mon'], variable_branding_suffix=['tavg-u-hxy-u'], type=['Dataset'], latest=[True], retracted=[False]
+└─STACESGFIndex('discovery.west.esgf.io') results=79 response_time=0.04
+└─STACESGFIndex('discovery.east.esgf.io') results=79 response_time=0.07
+combine_time=0.03
+[36;32msearch end[0m total_time=0.11
+  Not available for this combination: CESM3
+  None of the requested models are available for this combination.
+
+Summary: saved=0, skipped=0, empty=1, failed=0, dry_run=0
+
+Recap:
+  pr | historical (historical) | monthly | years 1980-2021: no requested model
+
+Configured/requested models not seen on the index in any combination: CESM3
